@@ -1,0 +1,46 @@
+nest_id,year,plot,field,in_study,confirmed,species,outcome,egg_date,hatch_date,fledge_date,no_fledged,max_clutch,live_young,Unhatched eggs,hatch_rate,Fledge Rate
+Lower Sunset n1,2023,,lower_sunset,no,,Bobolink,At least one young fledged,,,,4,7,5,,0.714285714,0.8
+Plains East n1,2023,,plains,no,,Bobolink,Abandoned,,,,0,2,0,,0,0
+p14n2,2023,14,,,,Bobolink,At least one young fledged,,,,3,3,3,,1,1
+p9N1,2023,9,,,,Bobolink,At least one young fledged,,,,4,5,5,,1,0.8
+p7n1,2023,7,,,,Bobolink,At least one young fledged,,,,6,6,6,,1,1
+p9n2,2023,9,,,,Bobolink,At least one young fledged,,,,5,5,5,,1,1
+GP5n1,2023,,,no,,Bobolink,At least one young fledged,,,,4,5,5,,1,0.8
+p13n3,2023,13,,,,Bobolink,At least one young fledged,,,,5,5,5,,1,1
+p13n2,2023,13,,,,Bobolink,At least one young fledged,,,,4,4,4,,1,1
+p17n1,2023,17,,,,Bobolink,At least one young fledged,,,,5,5,5,,1,1
+p13n1,2023,13,,,,Bobolink,At least one young fledged,,,,1,1,1,,1,1
+p15n3,2023,15,,,,Bobolink,At least one young fledged,,,,1,1,1,,1,1
+p16n2,2023,16,,,,Bobolink,At least one young fledged,,,,2,4,4,,1,0.5
+p15n1,2023,15,,,,Bobolink,At least one young fledged,,,,5,6,5,,0.833333333,1
+p2n1,2023,2,,,,Bobolink,At least one young fledged,,,,6,6,6,,1,1
+p14n1,2023,14,,,,Bobolink,At least one young fledged,,,,3,5,3,,0.6,1
+p11n1,2023,11,,,,Bobolink,At least one young fledged,,,,4,4,4,,1,1
+p15n2,2023,15,,,,Bobolink,At least one young fledged,,,,5,5,5,,1,1
+p16n1,2023,16,,,,Bobolink,At least one young fledged,,,,2,4,2,,0.5,1
+P21 N1 24,2024,21,,,,Bobolink,No breeding behavior observed,,,,0,0,0,0,0.00,0.00
+P13 N1 24,2024,13,,,,Savannah_Sparrow,At least one young fledged,,6/6/2024,6/16/2024,4,4,4,0,1.00,1.00
+P13 N2 24,2024,13,,,,Bobolink,At least one young fledged,,,6/14/2024,3,3,3,0,1.00,1.00
+P13 N3 24,2024,13,,,,Savannah_Sparrow,At least one young fledged,,,,3,3,3,0,1.00,1.00
+P15 N1 24,2024,15,,,,Bobolink,At least one young fledged,,6/6/2024,6/16/2024,6,6,6,0,1.00,1.00
+P10 N2 24,2024,10,,,,Bobolink,At least one young fledged,,,,4,5,4,1,0.80,1.00
+P6 N1 24,2024,6,,,,Bobolink,At least one young fledged,,6/7/2024,6/15/2024,5,6,5,1,0.83,1.00
+P7 N1 24,2024,7,,,,Bobolink,At least one young fledged,,6/10/2024,6/20/2024,4,5,5,0,1.00,0.80
+P11 N1 24,2024,11,,,,Bobolink,At least one young fledged,,,,4,5,4,1,0.80,1.00
+P15 N2 24,2024,15,,,,Bobolink,At least one young fledged,,,6/16/2024,6,6,6,0,1.00,1.00
+plains N1 24,2024,,plains,no,,Bobolink,Unknown outcome,6/7/2024,,,0,4,0,u,0.00,0.00
+P8 N1 24,2024,8,,,,Bobolink,At least one young fledged,,,6/20/2024,3,5,3,2,0.60,1.00
+P10 N3 24,2024,10,,,,Bobolink,At least one young fledged,,,6/23/2024,4,4,4,0,1.00,1.00
+P12 N1 24,2024,12,,,,Bobolink,At least one young fledged,,,,4,4,4,0,1.00,1.00
+P12 N2 24,2024,12,,,,Bobolink,At least one young fledged,,,,4,4,4,0,1.00,1.00
+P10 N1 24,2024,10,,,,Savannah_Sparrow,All young disappeared from nest before fledge date; reason unknown,,,,u,4,4,0,1.00,
+Playground N1 24,2024,,playground,no,,Bobolink,At least one young fledged,,6/17/2024,6/25/2024,4,4,4,0,1.00,1.00
+briar probable,2024,,briar,no,no,Bobolink,,,,,,,,,,
+P21 Probable,2024,21,,,no,Bobolink,,,,,,,,,,
+Briar Probable 2,2024,,briar,no,no,Bobolink,,,,,,,,,,
+P21 Probable 2,2024,21,,,no,Bobolink,,,,,,,,,,
+p15 probable ,2024,15,,,no,Bobolink,,,,,,,,,,
+P16 N1 24,2024,16,,,,Bobolink,At least one young fledged,,,6/30/2024,3,5,3,2,0.60,1.00
+p19 N1 24,2024,19,,,,Bobolink,,,,,,,,,,
+P3 probable,2024,3,,,no,Bobolink,,,,,,,,,,
+P16 N2 24,2024,16,,,,Bobolink,At least one young fledged,6/22/2024,7/1/2024,7/10/2024,4,4,4,0,1.00,1.00
