@@ -8,11 +8,9 @@ library(tidyverse)
 library(lubridate)
 library(ggpubr)
 
-setwd("/Users/alejandro/Library/CloudStorage/OneDrive-TTOR/Farm Team/Agroecology Initiative")
-
-nests<-read_csv("./Projects/lookout foundation study/data/spreadsheets/2023/nest_sheets.csv")
-grazing<-read_csv("./Projects/lookout foundation study/data/spreadsheets/2023/plot_grazing.csv")
-platemeter_long<-read_csv("./Projects/lookout foundation study/data/spreadsheets/2023/platemeter_long23.csv")
+nests<-read_csv("./nest_sheets.csv")
+grazing<-read_csv("plot_grazing.csv")
+platemeter_long<-read_csv("platemeter_long23.csv")
 
 
 ### Part 1: How did timing of grazing affect where we find nests? 

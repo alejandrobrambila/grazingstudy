@@ -13,3 +13,4 @@ allnests<-left_join(nests, plots)%>% #joins the plot and nest dataframes by comm
          is.na(in_study), #remove nests in GP but not in a plot
          is.na(confirmed), #remove 'presumed' but not found nests
          species=="Bobolink") #remove savanna sparrow nests
+
